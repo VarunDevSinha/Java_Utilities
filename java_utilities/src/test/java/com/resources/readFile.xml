@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee1>
+        <EmpId>TM3452</EmpId>
+        <Name>Ashwini Swami</Name>
+        <Grade>CB2</Grade>
+        <Department>BFSI IT</Department>
+        <Salary>360000</Salary>
+        <ODC_Access>
+            <ODC>1</ODC>
+            <ODC>4</ODC>
+        </ODC_Access>
+    </Employee1>
+    <Employee2>
+        <EmpId>TM6654</EmpId>
+        <Name>Arunkumar Kapuluru</Name>
+        <Grade>C1</Grade>
+        <Department>BFSI IT</Department>
+        <Salary>800000</Salary>
+        <ODC_Access>
+            <ODC>1</ODC>
+            <ODC>4</ODC>
+            <ODC>6</ODC>
+        </ODC_Access>
+    </Employee2>
+    <Employee3>
+        <EmpId>TL3388</EmpId>
+        <Name>Vijayakumar Natarajan</Name>
+        <Grade>E2</Grade>
+        <Department>BFSI IT</Department>
+        <Salary>1800000</Salary>
+        <ODC_Access>
+            <ODC>2</ODC>
+            <ODC>4</ODC>
+            <ODC>6</ODC>
+        </ODC_Access>
+    </Employee3>
+    <Employee4>
+        <EmpId>GM00998</EmpId>
+        <Name>Rajkumar Palani</Name>
+        <Grade>F3</Grade>
+        <Department>BFSI IT</Department>
+        <Salary>2600000</Salary>
+        <ODC_Access>
+            <ODC>1</ODC>
+            <ODC>2</ODC>
+            <ODC>4</ODC>
+            <ODC>6</ODC>
+        </ODC_Access>
+    </Employee4>
+    <Employee5>
+        <EmpId>TM65874</EmpId>
+        <Name>Venkatesh Chinigi</Name>
+        <Grade>C1</Grade>
+        <Department>BFSI IT</Department>
+        <Salary>650000</Salary>
+        <ODC_Access>
+            <ODC>1</ODC>
+            <ODC>4</ODC>
+            <ODC>6</ODC>
+        </ODC_Access>
+    </Employee5>
+</Employees>

@@ -1,0 +1,45 @@
+{
+    "Employees": [
+        {
+            "EmpId": "TM3452" ,
+            "Name": "Ashwini Swami",
+            "Grade": "CB2",
+            "Department": "BFSI IT",
+            "Salary":360000.0,
+            "ODC_Access":[1, 4]
+        },
+        {
+            "EmpId": "TM6654",
+            "Name": "Arunkumar Kapuluru",
+            "Grade": "C1",
+            "Department": "BFSI IT",
+            "Salary":800000.0,
+            "ODC_Access":[1, 4, 6]
+        },
+        {
+            "EmpId": "TL3388",
+            "Name": "Vijayakumar Natarajan",
+            "Grade": "E2",
+            "Department": "BFSI IT",
+            "Salary":1800000.0,
+            "ODC_Access":[2, 4, 6]
+        },
+        {
+            "EmpId": "GM00998",
+            "Name": "Rajkumar Palani",
+            "Grade": "F3",
+            "Department": "BFSI IT",
+            "Salary":2600000.0,
+            "ODC_Access":[1, 2, 4, 6]
+        },
+        {
+            "EmpId": "TM65874",
+            "Name": "Venkatesh Chinigi",
+            "Grade": "C1",
+            "Department": "BFSI IT",
+            "Salary":650000.0,
+            "ODC_Access":[1, 4, 6]
+        }
+    ]
+        
+}
